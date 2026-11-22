@@ -1,4 +1,6 @@
 
+
+
 Faza načrtovanja pojmov:
 	1. Definiranje pojmov
 		Pojem  -> značilnost lastnost
